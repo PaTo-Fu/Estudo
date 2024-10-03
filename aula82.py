@@ -1,0 +1,11 @@
+lista = [10, 20, 30, 40, 50, 60, 70, 80]
+lista.append('andre')
+print (lista)
+lista.pop()
+print(lista)
+lista.pop()
+print(lista)
+lista.insert(0, 'andre')
+print(lista)
+lista.pop(0)
+print(lista)
